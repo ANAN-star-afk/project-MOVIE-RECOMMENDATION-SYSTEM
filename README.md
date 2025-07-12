@@ -13,3 +13,4 @@
 * Responsive grid for all devices
 * Sliders & genre pickers
 * Subtle shadows, rounded corners, polished finish
+Python, Pandas, Sklearn, Streamlit
